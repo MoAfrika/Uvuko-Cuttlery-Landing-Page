@@ -1,0 +1,155 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column background-color="#eee">
+        <mj-image src="./uvuko cutlery-logo.png" align="center" width="100px" />
+        <mj-text font-size="20px" align="center" font-weight="900">"..for those who know their worth!"</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#eee">
+        <mj-image src="https://img.freepik.com/premium-photo/tea-cup-saucer-with-candle-it_1105043-122360.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" width="350px" />
+        <mj-text>Golden Sky Tea Set * 6</mj-text>
+        <mj-text>R720</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://img.freepik.com/premium-photo/sleek-electric-kettle-cut-out-kitchens_641503-79404.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" width="400px" />
+        <mj-text letter-spacing="5px" font-size="30px">COMING SOON</mj-text>
+        <mj-text letter-spacing="5px" font-size="22px" font-weight=400>COMING SOON</mj-text>
+        <mj-text letter-spacing="5px" font-size="16px" font-weight=200>COMING SOON</mj-text>
+        <mj-text font-size="10px" font-weight=100>COMING SOON</mj-text>
+      </mj-column>
+      <mj-column background-color="#eee">
+        <mj-image  src="https://img.freepik.com/free-photo/still-life-with-tea-cup-organic-background_23-2151775123.jpg?ga=GA1.1.1956593664.1726457508" />
+        <mj-text>Arabian Art Tea Set * 6</mj-text>
+        <mj-text>R500</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#eee">
+        <mj-text align="center" font-weight="700" font-size="15px">Luxury Cutlery & Crockery On A Silver Platter</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-carousel>
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/crockery-with-dynamic-transparent_888748-43923.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/luxury-tableware-display-dark-background_837816-12314.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/luxury-tableware-navy-blue-background_837816-14097.jpg?ga=GA1.1.1956593664.1726457508" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/luxury-tableware-deep-navy-blue-background_837816-14129.jpg?ga=GA1.1.1956593664.1726457508" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/kitchen-tool-organizer-with-white-background-high_1278119-4274.jpg?ga=GA1.1.1956593664.1726457508" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/luxury-tableware-display-plain-black-background_837816-15184.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/luxury-tableware-deep-navy-blue-background_837816-13985.jpg?ga=GA1.1.1956593664.1726457508" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/luxury-tableware-display-purple-background_837816-15736.jpg?ga=GA1.1.1956593664.1726457508" />
+        </mj-carousel>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#eee">
+        <mj-image src="./uvuko cutlery-logo-white.png" align="center" width="150px" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding="20px" background-color="#ffffff">
+      <mj-column background-color="#dededd">
+        <mj-accordion>
+          <mj-accordion-element>
+            <mj-accordion-title>How can I place an order?</mj-accordion-title>
+            <mj-accordion-text color="blue">
+              <span style="line-height:20px">You can place an order through our website or by contacting us directly via phone or email.</span>
+            </mj-accordion-text>
+          </mj-accordion-element>
+          <mj-accordion-element>
+            <mj-accordion-title>What payment methods do you accept?</mj-accordion-title>
+            <mj-accordion-text color="blue">
+              <span style="line-height:20px">We accept various payment methods, including credit cards, bank transfers, and cash on delivery.</span>
+            </mj-accordion-text>
+          </mj-accordion-element>
+        </mj-accordion>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="pinksilver.jpg" target="_blank" width="600px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
+      <mj-column background-color="whitesmoke">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:25px; font-family:Georgia, Helvetica, Arial, sans-serif">- When Taste Meets Class -</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="0px" src="bluegold.jpg" target="_blank" width="600px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
+      <mj-column background-color="whitesmoke">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:25px; font-family:Georgia, Helvetica, Arial, sans-serif">- Taste the Elegance -</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="0px" src="oppositegold.jpg" target="_blank" width="600px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
+      <mj-column background-color="whitesmoke">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:25px; font-family:Georgia, Helvetica, Arial, sans-serif">- Indulge in Refinement -</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="0px" src="dashof.jpg" target="_blank" width="600px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
+      <mj-column background-color="whitesmoke">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:25px; font-family:Georgia, Helvetica, Arial, sans-serif">- Transform Every Meal into an Occasion -</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-carousel>
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/gold-bracelets-with-blue-cloth-gold-bracelets_1120557-34099.jpg?w=826" alt="Image 1" />
+          <mj-carousel-image src="https://img.freepik.com/free-photo/empty-blue-bowl-wooden-table-reflects-light-generated-by-ai_188544-25118.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 2" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/crockery-with-dynamic-transparent_888748-43158.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 3" />
+          <mj-carousel-image src="./luxury-tableware-navy-blue-background_837816-14066.jpg" alt="Image 4" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/tray-with-tea-cup-plate-with-tea-cup-it_1200281-4698.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 5" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/golden-spoons-glisten-against-textured-black-gold-background-creating-opulent-luxurious-culinary-scene_95891-81071.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 6" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/crockery-with-dynamic-transparent_888748-43503.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 7" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/spoon-with-logo-it-sits-red-cloth_1120557-32556.jpg?w=826" alt="Image 8" />
+        </mj-carousel>
+        <mj-carousel>
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/collection-spoons-spoons-are-table_1249034-11983.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 8" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/kitchen-utensils-beautiful-important-kitchen_723616-6885.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 8" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/closeup-cutlery-set-with-detailed-etching_1258-302860.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 8" />
+          <mj-carousel-image src="https://img.freepik.com/premium-photo/modern-colorful-paint-art-best-choose-dinnerware-set-pictures-ai-generated-art_210643-2870.jpg?ga=GA1.1.1956593664.1726457508&semt=ais_hybrid" alt="Image 8" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column border="1px solid white" background-color="silver" border-radius="50px">
+        <mj-text> SEE YOU SOON</mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-section>
+      	<mj-column background-color="black">
+        <mj-text>
+          	Developed by &copy;MO &copy; NTILANE &copy;2024&copy;
+          </mj-text>
+        </mj-column>
+      </mj-secion>
+  </mj-body>
+</mjml>
